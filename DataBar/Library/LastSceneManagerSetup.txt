@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ShowData/_Scene/DataShowScene.unity
+  isLoaded: 1
+  isActive: 1
